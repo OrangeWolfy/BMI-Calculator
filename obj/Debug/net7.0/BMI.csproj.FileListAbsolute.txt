@@ -1,0 +1,15 @@
+C:\Users\orang\OneDrive\Documentos\VS Code Proyects\Csharp\Chemistry\BMI\bin\Debug\net7.0\BMI.exe
+C:\Users\orang\OneDrive\Documentos\VS Code Proyects\Csharp\Chemistry\BMI\bin\Debug\net7.0\BMI.deps.json
+C:\Users\orang\OneDrive\Documentos\VS Code Proyects\Csharp\Chemistry\BMI\bin\Debug\net7.0\BMI.runtimeconfig.json
+C:\Users\orang\OneDrive\Documentos\VS Code Proyects\Csharp\Chemistry\BMI\bin\Debug\net7.0\BMI.dll
+C:\Users\orang\OneDrive\Documentos\VS Code Proyects\Csharp\Chemistry\BMI\bin\Debug\net7.0\BMI.pdb
+C:\Users\orang\OneDrive\Documentos\VS Code Proyects\Csharp\Chemistry\BMI\obj\Debug\net7.0\BMI.csproj.AssemblyReference.cache
+C:\Users\orang\OneDrive\Documentos\VS Code Proyects\Csharp\Chemistry\BMI\obj\Debug\net7.0\BMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orang\OneDrive\Documentos\VS Code Proyects\Csharp\Chemistry\BMI\obj\Debug\net7.0\BMI.AssemblyInfoInputs.cache
+C:\Users\orang\OneDrive\Documentos\VS Code Proyects\Csharp\Chemistry\BMI\obj\Debug\net7.0\BMI.AssemblyInfo.cs
+C:\Users\orang\OneDrive\Documentos\VS Code Proyects\Csharp\Chemistry\BMI\obj\Debug\net7.0\BMI.csproj.CoreCompileInputs.cache
+C:\Users\orang\OneDrive\Documentos\VS Code Proyects\Csharp\Chemistry\BMI\obj\Debug\net7.0\BMI.dll
+C:\Users\orang\OneDrive\Documentos\VS Code Proyects\Csharp\Chemistry\BMI\obj\Debug\net7.0\refint\BMI.dll
+C:\Users\orang\OneDrive\Documentos\VS Code Proyects\Csharp\Chemistry\BMI\obj\Debug\net7.0\BMI.pdb
+C:\Users\orang\OneDrive\Documentos\VS Code Proyects\Csharp\Chemistry\BMI\obj\Debug\net7.0\BMI.genruntimeconfig.cache
+C:\Users\orang\OneDrive\Documentos\VS Code Proyects\Csharp\Chemistry\BMI\obj\Debug\net7.0\ref\BMI.dll
